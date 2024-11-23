@@ -30,29 +30,33 @@
 | GPU | GeForce RTX 3070 | GeForce RTX 4080 |
 | VRAM | 8GB | 16GB |  
   
-## NVIDIA Omniverse Window版本安裝  
+# NVIDIA Omniverse 安裝    
 NVIDIA Omniverse Launcher:  
-[NVIDIA Omniverse Launcher 安裝地點](https://developer.nvidia.com/omniverse#section-getting-started)  
-[NVIDIA Omniverse Launcher Window直接安裝](https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe) 
-  
-NVIDIA Isaac Sim:  
+[NVIDIA Omniverse Launcher 安裝地點](https://developer.nvidia.com/omniverse#section-getting-started)    
+[NVIDIA Omniverse Launcher Window直接安裝](https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe)   
+[NVIDIA Omniverse Launcher Linux直接安裝](https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-linux.AppImage)   
+    
+# NVIDIA Isaac Sim 安裝    
+## Window版本:
 需要先安裝NVIDIA Omniverse Launcher  
 安裝路徑: NVIDIA Omniverse Launcher > EXCHANGE > INSTALL > 在Library中啟用   
 ### 1.開啟NVIDIA Omniverse Launcher，並點擊EXCHANG開啟商店  
-![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/1.png)
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/1.png)  
 ### 2.在EXCHANG中點擊NVIDIA Isaac Sim開啟安裝介面
-![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/2.png)
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/2.png)  
 ### 3.點擊INSTALL進行安裝
-![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/3.png)
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/3.png)  
 ### 4.確認開始進行安裝
-![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/4.png)
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/4.png)  
 
-## 附件可用外掛:
-### 地形檢測  
+## Linux版本:  
+
+# 附件可用外掛:
+## 地形檢測  
  [NVBLOX SLAM替代](https://blog.csdn.net/qq_29788741/article/details/134257346)  
  [Nvblox ROS1 安装配置](https://blog.csdn.net/m0_56661101/article/details/135292374)  
  [Nvblox Github](https://github.com/nvidia-isaac/nvblox)  
-### 步態控制  
+## 步態控制  
  [SPOT步態控制](https://www.bilibili.com/video/BV1HsSiYNEvZ/?spm_id_from=333.337.search-card.all.click&vd_source=35d2b7cdfe327b9931450d7679316692)  
  [四足步態控制](https://developer.nvidia.com/blog/closing-the-sim-to-real-gap-training-spot-quadruped-locomotion-with-nvidia-isaac-lab/
 )  
