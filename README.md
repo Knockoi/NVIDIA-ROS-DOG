@@ -18,12 +18,12 @@ NVIDIA Omniverse Launcher:
 [NVIDIA Omniverse Launcher 安裝地點](https://developer.nvidia.com/omniverse#section-getting-started)  
 [NVIDIA Omniverse Launcher Window直接安裝](https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe) 
   
-### NVIDIA Isaac SIM:  
+### NVIDIA Isaac Sim:  
 需要先安裝NVIDIA Omniverse Launcher  
 安裝路徑: NVIDIA Omniverse Launcher > EXCHANGE > INSTALL > 在Library中啟用   
 ### 1.開啟NVIDIA Omniverse Launcher，並點擊EXCHANG開啟商店  
 ![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/1.png)
-### 2.在EXCHANG中點擊NVIDIA Isaac SIM開啟安裝介面
+### 2.在EXCHANG中點擊NVIDIA Isaac Sim開啟安裝介面
 ![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/2.png)
 ### 3.點擊INSTALL進行安裝
 ![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/3.png)
