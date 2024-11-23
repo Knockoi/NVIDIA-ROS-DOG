@@ -19,13 +19,13 @@ NVIDIA Omniverse Launcher:
 需要先安裝NVIDIA Omniverse Launcher  
 安裝路徑: NVIDIA Omniverse Launcher > EXCHANGE > INSTALL > 在Library中啟用   
 ### 1.開啟NVIDIA Omniverse Launcher，並點擊EXCHANG開啟商店  
-![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/1.png=100x200)
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/1.png)
 ### 2.在EXCHANG中點擊NVIDIA Isaac SIM開啟安裝介面
-![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/2.png=100x200)
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/2.png)
 ### 3.點擊INSTALL進行安裝
-![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/3.png=100x200)
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/3.png)
 ### 4.確認開始進行安裝
-![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/4.png=100x200)
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/4.png)
 
 ## 附件:
  [NVBLOX SLAM替代](https://blog.csdn.net/qq_29788741/article/details/134257346)  
