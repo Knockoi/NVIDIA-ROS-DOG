@@ -26,7 +26,7 @@
 | CPU | Intel Core i7 (7th Generation)AMD Ryzen 5 | Intel Core i7 (7th Generation) AMD Ryzen 5 |
 | 核心數 | 4 | 8 |
 | RAM | 32GB | 64GB |
-| 儲存空間 | 50GBSSD | 500GBSSD |
+| 儲存空間 | 50GB SSD | 500GB SSD |
 | GPU | GeForce RTX 3070 | GeForce RTX 4080 |
 | VRAM | 8GB | 16GB |  
   
