@@ -1,4 +1,4 @@
-# NVIDIA Omniverse Isaac Lab 使用方式   
+# 在NVIDIA Omniverse Isaac Lab中模擬ROS機器人方式   
   
 ## NVIDIA Omniverse 功能
 #### NVIDIA Omniverse 是 NVIDIA 開發的一個開放式平台，專為 3D 設計和協作而設計。它利用了 NVIDIA RTX 技術來支持實時物理模擬和光線追蹤，並通過 Universal Scene Description (USD) 格式，為設計師、工程師和開發人員提供一個強大的工具集。以下是 Omniverse 的主要功能和應用：  
