@@ -15,9 +15,6 @@ NVIDIA Omniverse Launcher:
 [NVIDIA Omniverse Launcher 安裝地點](https://developer.nvidia.com/omniverse#section-getting-started)  
 [NVIDIA Omniverse Launcher Window直接安裝](https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe) \
   
-## NVIDIA Omniverse Linux版本安裝  
-[NVIDIA Omniverse Launcher Linux直接安裝](https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-linux.AppImage)  
-  
 ### NVIDIA Isaac Lab:  
 需要先安裝NVIDIA Omniverse Launcher 
 安裝路徑: NVIDIA Omniverse Launcher > EXCHANGE > INSTALL > 在圖書館啟用
