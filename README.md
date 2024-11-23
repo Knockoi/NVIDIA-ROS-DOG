@@ -53,7 +53,7 @@ NVIDIA Omniverse Launcher:
 
 # 附件可用外掛:
 ## 地形檢測  
- [NVBLOX SLAM替代](https://blog.csdn.net/qq_29788741/article/details/134257346)  
+ [NVblox SLAM替代](https://blog.csdn.net/qq_29788741/article/details/134257346)  
  [Nvblox ROS1 安装配置](https://blog.csdn.net/m0_56661101/article/details/135292374)  
  [Nvblox Github](https://github.com/nvidia-isaac/nvblox)  
 ## 步態控制  
