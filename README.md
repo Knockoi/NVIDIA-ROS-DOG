@@ -1,7 +1,10 @@
 # 在NVIDIA Omniverse Isaac Lab中模擬ROS機器人方式   
   
-## 前言  
+## 架構邏輯    
 [NVIDIA Isaac ROS基礎控制邏輯](https://developer.nvidia.com/isaac/ros)  
+## 影片學習資源  
+[如何使用 NVIDIA Omniverse 上的 NVIDIA Isaac Sim 在虛擬環境中建置、測試和訓練機器人](https://www.bilibili.com/video/BV15a41117Nv/?spm_id_from=333.337.search-card.all.click&vd_source=35d2b7cdfe327b9931450d7679316692)  
+[Isaac Sim 教學I Introduction（公開課錄音）](https://www.bilibili.com/video/BV1EN4y1w7D5/?spm_id_from=333.337.search-card.all.click&vd_source=35d2b7cdfe327b9931450d7679316692)  
   
 ## NVIDIA Omniverse 功能
 #### NVIDIA Omniverse 是 NVIDIA 開發的一個開放式平台，專為 3D 設計和協作而設計。它利用了 NVIDIA RTX 技術來支持實時物理模擬和光線追蹤，並通過 Universal Scene Description (USD) 格式，為設計師、工程師和開發人員提供一個強大的工具集。以下是 Omniverse 的主要功能和應用：  
