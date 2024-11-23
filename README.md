@@ -18,6 +18,16 @@
 | 光線追蹤渲染 | 基於 RTX 的實時光線追蹤技術，可生成接近照片品質的渲染效果，適用於產品可視化、建築設計和影片製作。|
 | 開放和靈活的架構|支援 USD（Universal Scene Description），這是一種業界標準的場景描述格式，允許與多種 3D 工具和引擎集成，如 Autodesk Maya、3ds Max、Blender 和 Unreal Engine。|
 | AI 驅動工作流 | 提供 AI 工具來加速內容創建，比如場景自動生成、3D 物體識別和優化設計工作流。 |  
+
+## 系統需求  
+| 元素 |  最低規格 | 推薦 |
+| 系統 | Ubuntu 20.04/22.04 Windows 10/11 | Ubuntu 20.04/22.04 Windows 10/11 |
+| CPU | Intel Core i7 (7th Generation)AMD Ryzen 5 | Intel Core i7 (7th Generation) AMD Ryzen 5 |
+| 核心數 | 4 | 8 |
+| RAM | 32GB | 64GB |
+| 儲存空間 | 50GBSSD | 500GBSSD |
+| GPU | GeForce RTX 3070 | GeForce RTX 4080 |
+| VRAM | 8GB | 16GB |  
   
 ## NVIDIA Omniverse Window版本安裝  
 NVIDIA Omniverse Launcher:  
