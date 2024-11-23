@@ -35,7 +35,7 @@ NVIDIA Omniverse Launcher:
 [NVIDIA Omniverse Launcher 安裝地點](https://developer.nvidia.com/omniverse#section-getting-started)  
 [NVIDIA Omniverse Launcher Window直接安裝](https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe) 
   
-### NVIDIA Isaac Sim:  
+NVIDIA Isaac Sim:  
 需要先安裝NVIDIA Omniverse Launcher  
 安裝路徑: NVIDIA Omniverse Launcher > EXCHANGE > INSTALL > 在Library中啟用   
 ### 1.開啟NVIDIA Omniverse Launcher，並點擊EXCHANG開啟商店  
