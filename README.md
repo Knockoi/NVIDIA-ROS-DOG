@@ -23,7 +23,7 @@
 | 元素 |  最低規格 | 推薦 |
 | ---- | ---- | ---- |
 | 系統 | Ubuntu 20.04/22.04 Windows 10/11 | Ubuntu 20.04/22.04 Windows 10/11 |
-| CPU | Intel Core i7 (7th Generation)AMD Ryzen 5 | Intel Core i7 (7th Generation) AMD Ryzen 5 |
+| CPU | Intel Core i7 (7th Generation)AMD Ryzen 5 | Intel Core i7 (9th Generation) AMD Ryzen 7 |
 | 核心數 | 4 | 8 |
 | RAM | 32GB | 64GB |
 | 儲存空間 | 50GB SSD | 500GB SSD |
