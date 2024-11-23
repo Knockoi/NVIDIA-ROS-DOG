@@ -27,9 +27,14 @@ NVIDIA Omniverse Launcher:
 ### 4.確認開始進行安裝
 ![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/4.png)
 
-## 附件:
+## 附件可用外掛:
+### 地形檢測  
  [NVBLOX SLAM替代](https://blog.csdn.net/qq_29788741/article/details/134257346)  
  [Nvblox ROS1 安装配置](https://blog.csdn.net/m0_56661101/article/details/135292374)  
  [Nvblox Github](https://github.com/nvidia-isaac/nvblox)  
-
+### 步態控制  
+ [SPOT步態控制](https://www.bilibili.com/video/BV1HsSiYNEvZ/?spm_id_from=333.337.search-card.all.click&vd_source=35d2b7cdfe327b9931450d7679316692)  
+ [四足步態控制](https://developer.nvidia.com/blog/closing-the-sim-to-real-gap-training-spot-quadruped-locomotion-with-nvidia-isaac-lab/
+)  
+ 
 
