@@ -2,6 +2,7 @@
   
 ## 架構邏輯    
 [NVIDIA Isaac ROS基礎控制邏輯](https://developer.nvidia.com/isaac/ros)  
+[NVIDIA Omniverse開發](https://developer.nvidia.com/omniverse#section-getting-started)
 ## 影片學習資源  
 [如何使用 NVIDIA Omniverse 上的 NVIDIA Isaac Sim 在虛擬環境中建置、測試和訓練機器人](https://www.bilibili.com/video/BV15a41117Nv/?spm_id_from=333.337.search-card.all.click&vd_source=35d2b7cdfe327b9931450d7679316692)  
 [Isaac Sim 教學I Introduction（公開課錄音）](https://www.bilibili.com/video/BV1EN4y1w7D5/?spm_id_from=333.337.search-card.all.click&vd_source=35d2b7cdfe327b9931450d7679316692)  
