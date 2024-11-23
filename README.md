@@ -10,8 +10,12 @@
 | 開放和靈活的架構|支援 USD（Universal Scene Description），這是一種業界標準的場景描述格式，允許與多種 3D 工具和引擎集成，如 Autodesk Maya、3ds Max、Blender 和 Unreal Engine。|
 | AI 驅動工作流 | 提供 AI 工具來加速內容創建，比如場景自動生成、3D 物體識別和優化設計工作流。 |  
   
-## NVIDIA Omniverse安裝方式 
+## NVIDIA Omniverse安裝方式  
+NVIDIA Omniverse Launcher:  
 [NVIDIA Omniverse Launcher 安裝地點](https://developer.nvidia.com/omniverse#section-getting-started)  
 [NVIDIA Omniverse Launcher 直接安裝](https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe)  
+NVIDIA Isaac Lab:
+需要先安裝NVIDIA Omniverse Launcher 
+安裝路徑: NVIDIA Omniverse Launcher > 交易所 > 安裝 > 在圖書館啟用
 
 
