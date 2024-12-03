@@ -1,11 +1,5 @@
 # 在NVIDIA Omniverse Isaac Lab中模擬ROS機器人方式   
-
-## ROS快速安裝
-在Linux中開啟命令提示字元輸入:  
-```bash
-wget http://fishros.com/install -O fishros && . fishros
-````
-    
+  
 ## 架構邏輯    
 [NVIDIA Omniverse開發](https://developer.nvidia.com/omniverse#section-getting-started)  
 [NVIDIA Isaac ROS基礎控制邏輯](https://developer.nvidia.com/isaac/ros)  
@@ -41,9 +35,17 @@ NVIDIA Omniverse Launcher:
 [NVIDIA Omniverse Launcher 安裝地點](https://developer.nvidia.com/omniverse#section-getting-started)    
 [NVIDIA Omniverse Launcher Window直接安裝](https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe)   
 [NVIDIA Omniverse Launcher Linux直接安裝](https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-linux.AppImage)   
-    
+
+
+## ROS快速安裝!!
+在Linux中開啟命令提示字元輸入以下:
+```bash
+wget http://fishros.com/install -O fishros && . fishros
+```
+  
 
 # 附件可用外掛:
+  
 ## 地形檢測  
  [NVblox SLAM替代](https://blog.csdn.net/qq_29788741/article/details/134257346)  
  [Nvblox ROS1 安装配置](https://blog.csdn.net/m0_56661101/article/details/135292374)  
