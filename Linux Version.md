@@ -15,10 +15,18 @@
 ![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/8.png)  
   
 ## 安裝Xacro  
-
-
-
-
+模型假如使用URDF格是需要使用Xacro  
+運行以下程序在Linux命令提示字元  
+這裡使用ros-humble版本作演示  
+```bash
+sudo apt-get install ros-humble-xacro
+```  
+再來確認安裝
+```bash
+roscd xacro
+```  
+如果沒有報錯就恭喜安裝成功  
+  
 ## NVIDIA Omniverse 部署啟動器  
 若要在 Linux（Ubuntu 20.04 和 22.04）上安裝 IT Managed Launcher，請執行下列步驟：  
 透過在使用者工作站本地啟動從許可證入口網站下載的 AppImage 來執行 IT 託管啟動器。  
