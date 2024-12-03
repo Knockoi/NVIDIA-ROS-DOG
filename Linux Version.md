@@ -1,15 +1,21 @@
 # NVIDIA Isaac Sim 安裝    
 ## Linux版本:
-## 安裝Nvidia驅動器  
+
 [確認驅動程序版本](https://www.nvidia.com/zh-tw/drivers/)  
 假如是消費及顯卡RTX3080 or GTX1050 都是GeForce系列  
 有區分筆電和桌機顯卡!!  
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/5.png)  
 
+## 安裝Nvidia驅動器  
 ### 1.開啟設定  
-### 2.打開軟體更新
-### 3.開啟額外驅動程序選擇驅動並套用
-
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/6.png)  
+### 2.打開軟體更新  
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/7.png)  
+### 3.開啟額外驅動程序選擇驅動並套用  
+![image](https://github.com/Knockoi/NVIDIA-ROS-DOG/blob/main/%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87/8.png)  
+  
 ## 安裝Xacro  
+
 
 
 
