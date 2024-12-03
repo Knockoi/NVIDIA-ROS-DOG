@@ -1,5 +1,11 @@
 # 在NVIDIA Omniverse Isaac Lab中模擬ROS機器人方式   
-  
+
+## ROS快速安裝
+在Linux中開啟命令提示字元輸入:  
+```bash
+wget http://fishros.com/install -O fishros && . fishros
+````
+    
 ## 架構邏輯    
 [NVIDIA Omniverse開發](https://developer.nvidia.com/omniverse#section-getting-started)  
 [NVIDIA Isaac ROS基礎控制邏輯](https://developer.nvidia.com/isaac/ros)  
