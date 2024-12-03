@@ -1,10 +1,13 @@
 # NVIDIA Isaac Sim 安裝    
 ## Linux版本:
 ## 安裝Nvidia驅動器  
-先檢查是否有Nvidia驅動程序  
+[確認驅動程序版本](https://www.nvidia.com/zh-tw/drivers/)  
+假如是消費及顯卡RTX3080 or GTX1050 都是GeForce系列  
+有區分筆電和桌機顯卡!!  
+
 ### 1.開啟設定  
-### 2.開啟NVIDIA Omniverse Launcher，並點擊EXCHANG開啟商店  
-### 3.開啟NVIDIA Omniverse Launcher，並點擊EXCHANG開啟商店  
+### 2.打開軟體更新
+### 3.開啟額外驅動程序選擇驅動並套用
 
 ## 安裝Xacro  
 
