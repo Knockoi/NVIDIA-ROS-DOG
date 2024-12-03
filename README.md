@@ -42,8 +42,8 @@ NVIDIA Omniverse Launcher:
 ```bash
 wget http://fishros.com/install -O fishros && . fishros
 ```
+[來源:](https://fishros.org.cn/forum/topic/20/%E5%B0%8F%E9%B1%BC%E7%9A%84%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E7%B3%BB%E5%88%97?lang=zh-TW)  
   
-
 # 附件可用外掛:
   
 ## 地形檢測  
