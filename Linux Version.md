@@ -18,6 +18,11 @@
 模型假如使用URDF格是需要使用Xacro  
 運行以下程序在Linux命令提示字元  
 這裡使用ros-humble版本作演示  
+先運行更新確保可以正常安裝Xacro  
+```bash
+sudo apt-get update
+```
+安裝Xacro 
 ```bash
 sudo apt-get install ros-humble-xacro
 ```  
